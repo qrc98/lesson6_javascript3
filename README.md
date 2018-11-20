@@ -3,21 +3,20 @@
 ### Course Title:
 Web Application Development
 
-### Assignment Date:  
-(Month Day, Year)
+### Assignment Date:
+November 20, 2018
 
-### Student Name:  
-(First and Last Name)
+### Student Name:
+Quentin Coombs
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+For this assingment we used javascript in order to create a photo gallery by utilizing serveral event listeners and an external javascript file.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://qrc98.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to create and declare my own functions to be used in an application
+2. I learned how to use to appendChild and getElementsByTagName fucntions to identify and modify a node on the DOM
+3. I also learned how to use the cloneNode fucntion to clone a figure element on the DOM
 
